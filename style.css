@@ -4,4 +4,12 @@ body{
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blueviolet;
+    font-weight: bold;
+    font-size: 25px;
+}
+p{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
 }
